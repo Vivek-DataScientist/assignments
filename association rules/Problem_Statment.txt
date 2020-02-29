@@ -1,0 +1,38 @@
+Prepare rules for the all the data sets 
+1) Try different values of support and confidence. Observe the change in number of rules for different support,confidence values
+2) Change the minimum length in apriori algorithm
+3) Visulize the obtained rules using different plots 
+BOOKS DATASET:-
+In books dataset,i tried minimum length as 0.002 then formed 1673 support values,also lift has 93394 dataframes formed.In without redudancy 1661 dataframes are formed.
+And I tried many small values in support.
+In my analysis,I give minimum length as 0.03 then formed 181 support values,also lift has 1676 dataframes formed.In without redudancy 170 dataframes are formed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MY_MOVIES DATASET:-
+ 
+

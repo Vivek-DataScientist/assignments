@@ -1,0 +1,14 @@
+Perform Clustering for the crime data and identify the number of clusters formed and draw inferences.
+
+Data Description:
+Murder -- Muder rates in different places of United States
+Assualt- Assualt rate in different places of United States
+UrbanPop - urban population in different places of United States
+Rape - Rape rate in different places of United States
+
+
+
+In this Crime data set ,there forming a 97 clusters....
+In however in this crime datas of united states,we only identify a low rates of murder and low rate of rapes in overall population.
+i want only 2 clusters for analysing the datas in crime data set.
+
